@@ -1,0 +1,8 @@
+.inputClass div input{
+  width:100%
+}
+.studentsForm{
+  width: 90%;
+  max-width: 500px;
+  margin: auto;
+}
